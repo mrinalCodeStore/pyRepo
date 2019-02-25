@@ -11,3 +11,4 @@ while i>0:
         arrow.forward(i*10)
         arrow.left(90)
     i-=1
+input()
